@@ -1,6 +1,6 @@
 package Ch02.lecture.p02tpye;
 
-public class P01Type {
+public class C01Type {
     public static void main(String[] args) {
 
 //        1. primitive type 8가지 (기본 타입, 원시 타입)
