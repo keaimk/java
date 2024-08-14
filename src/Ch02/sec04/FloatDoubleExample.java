@@ -1,4 +1,4 @@
-package Ch02.sec02;
+package Ch02.sec04;
 
 public class FloatDoubleExample {
     public static void main(String[] args) {
