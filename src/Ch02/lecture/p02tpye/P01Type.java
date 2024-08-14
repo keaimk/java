@@ -16,7 +16,7 @@ public class P01Type {
 //        2. reference type 무한대 (참조 타입)
 //         primitive type 빼고 모두
 
-        ///////////////////////////
+          ///////////////////////////
 //        primitive type
 //        정수형 (byte(1), short(2), int(4), long(8))
 
@@ -32,5 +32,10 @@ public class P01Type {
         System.out.println("v1 = " + v1);
 
         System.out.println(v1 + 1);
+
+//        long (8byte)
+//        4byte 이상의 수 작성 시 끝에 L 붙이기
+        long v2 = 21474836480000L;
+        long v3 = 214_748_036_4800_000_000L;
     }
 }
