@@ -1,4 +1,4 @@
-package Ch21.sec01;
+package Ch21;
 
 public class VarExample1 {
     public static void main(String[] args) {
