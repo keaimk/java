@@ -10,6 +10,7 @@ public class PrimitiveAndStringConversionExample {
         System.out.println("value2: " + value2);
         System.out.println("value3: " + value3);
 
+//        string.valueOf : primitive -> string
         String str1 = String.valueOf(10);
         String str2 = String.valueOf(3.14);
         String str3 = String.valueOf(true);
