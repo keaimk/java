@@ -1,6 +1,6 @@
-package Ch02.lecture.p03string;
+package Ch02.lecture.p04conversion;
 
-public class C04TypeConversion {
+public class C03TypeConversion {
     public static void main(String[] args) {
 //        정수(byte, short, int, long) <-> 실수(float, double)
 //        정수(int, long) <-> 실수(double)
