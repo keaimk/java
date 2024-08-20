@@ -1,4 +1,4 @@
-package Ch03.lecture;
+package Ch03.lecture.p01arithmetic;
 
 public class C01Arithmetic {
     public static void main(String[] args) {
