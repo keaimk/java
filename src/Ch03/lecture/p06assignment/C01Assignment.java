@@ -6,7 +6,5 @@ public class C01Assignment {
         // 오른쪽 값을 왼쪽 변수에 대입(할당)
         int a = 3;
         int b = 5 / 2;
-
-
     }
 }
