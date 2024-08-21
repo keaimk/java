@@ -2,7 +2,7 @@ package Ch04.sec02;
 
 public class IfDiceExample {
     public static void main(String[] args) {
-        int num = (int) (Math.random() * 6) + 1;
+        int num = (int) (Math.random() * 6) + 1; // 여기서 1은 하나의 수를 뽑는 것을 가리킴
 
         if (num == 1) {
             System.out.println("1번이 나왔습니다.");
