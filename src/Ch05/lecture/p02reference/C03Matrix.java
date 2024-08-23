@@ -13,6 +13,7 @@ public class C03Matrix {
         [0, 0]
         [0, 0]
          */
+
         m1[0][0] = 55;
         m1[0][1] = 66;
 
@@ -21,8 +22,7 @@ public class C03Matrix {
 
         m1[2][0] = 99;
         m1[2][1] = 1010;
-
-
+        
         System.out.println(Arrays.toString(m1[0]));
         System.out.println(Arrays.toString(m1[1]));
         System.out.println(Arrays.toString(m1[2]));
