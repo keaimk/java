@@ -1,4 +1,4 @@
-package ch06.lecture.p02field;
+package Ch06.lecture.p02field;
 
 public class C01Field {
     public static void main(String[] args) {
