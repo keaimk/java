@@ -11,7 +11,7 @@ public class C07Overloading {
 class Myclass07 {
     //    Method Overloading
 //    파라미터 목록이 다른 같은 이름의 메소드를 작성할 수 있다.
-//    파라미터 목록(개수, 순서,
+//    파라미터 목록(갯수, 순서, 타입)
     public void method1() {
         System.out.println("실행문들 ...");
     }
