@@ -24,7 +24,6 @@ class MyClass05 {
     // 타입 파라미터명, 타입 파라미터명,......
     public void method1(int age, String myName, int[] scores, String[] studentNames) {
         // 변수 선언, 값 대입, 제어문, 연산식....
-
     }
 
     public void method2(int age) {
