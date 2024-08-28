@@ -1,4 +1,4 @@
-package Ch06.p06final;
+package Ch06.lecture.p06final;
 
 public class C01Final {
 //    final : 변수의 값을 바꾸지 못하게 하는 키워드

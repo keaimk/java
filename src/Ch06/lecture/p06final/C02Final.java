@@ -1,4 +1,4 @@
-package Ch06.p06final;
+package Ch06.lecture.p06final;
 
 public class C02Final {
     public static void main(String[] args) {
