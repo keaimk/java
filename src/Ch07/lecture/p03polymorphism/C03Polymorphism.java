@@ -29,6 +29,6 @@ class Sub032 extends Super03 {
     //    참치
     @Override
     public void eat() {
-        System.out.println();
+        System.out.println("작은 물고기를 먹습니다.");
     }
 }
