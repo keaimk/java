@@ -11,8 +11,8 @@ public class C02Polymorphism {
         Parent02 a = new Child03();
         Parent02 b = new Child02();
 
-//        Child02 c = new Child03(); // x
-//        Child03 b = new Child02(); // x
+//        Child02 c = new Child03(); // X
+//        Child03 b = new Child02(); // X
     }
 }
 
