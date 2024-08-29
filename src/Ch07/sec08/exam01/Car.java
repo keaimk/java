@@ -1,4 +1,4 @@
-package Ch07.lecture.sec08.exam01;
+package Ch07.sec08.exam01;
 
 public class Car {
     public Tire tire;
