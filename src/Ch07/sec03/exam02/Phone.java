@@ -1,4 +1,4 @@
-package Ch07.lecture.sec03.exam02;
+package Ch07.sec03.exam02;
 
 public class Phone {
     public String model;

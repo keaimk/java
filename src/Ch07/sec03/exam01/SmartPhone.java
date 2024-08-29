@@ -1,4 +1,4 @@
-package Ch07.lecture.sec03.exam01;
+package Ch07.sec03.exam01;
 
 public class SmartPhone extends Phone {
     public SmartPhone(String model, String color) {

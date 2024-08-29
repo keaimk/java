@@ -1,4 +1,4 @@
-package Ch07.lecture.sec03.exam01;
+package Ch07.sec03.exam01;
 
 public class SmartPhoneExample {
     public static void main(String[] args) {
