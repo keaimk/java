@@ -1,6 +1,6 @@
 package Ch08.sec10.exam01;
 
-public class PromotionExmaple {
+public class PromotionExample {
     public static void main(String[] args) {
         B b = new B();
         C c = new C();
