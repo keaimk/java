@@ -15,3 +15,4 @@ public class C07Hashcode {
         System.out.println(System.identityHashCode(d));
     }
 }
+
