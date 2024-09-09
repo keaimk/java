@@ -1,6 +1,6 @@
 package Ch08.exercise.p06;
 
-import ch08.exercise.p06.Soundable;
+import Ch08.exercise.p06.Soundable;
 
 public class Cat implements Soundable {
     @Override
