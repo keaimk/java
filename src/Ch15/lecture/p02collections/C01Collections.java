@@ -1,6 +1,8 @@
 package Ch15.lecture.p02collections;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 
 public class C01Collections {
@@ -13,5 +15,25 @@ public class C01Collections {
         list.add("html");
 
         System.out.println(list);
+
+//        섞기
+        Collections.shuffle(list);
+        System.out.println(list);
+
+//        정렬
+        Collections.sort(list);
+        System.out.println(list);
+
+//        순서 뒤집기
+        Collections.reverse(list);
+        System.out.println(list);
+
+//        가장 큰 값 찾기
+        String max = Collections.max(list);
+        System.out.println("max = " + max);
+
+//        가장 작은 값
+        String min = Collections.min(list);
+        System.out.println("min = " + min);
     }
 }
