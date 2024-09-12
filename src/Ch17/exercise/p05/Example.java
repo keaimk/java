@@ -1,4 +1,4 @@
-package Ch17.lecutre.exercise.p05;
+package Ch17.exercise.p05;
 
 import java.util.List;
 
