@@ -8,7 +8,7 @@ import java.io.OutputStream;
 public class C05OutputStream {
     public static void main(String[] args) {
 
-        String name = "C:/Windows/Temp/output5.txt";
+        String name = "C:/Temp/output5.txt";
 
         try (OutputStream os = new FileOutputStream(name);) {
             os.write(55); // 1 byte 쓰기
