@@ -7,7 +7,7 @@ import java.io.OutputStream;
 
 public class C01OutputStream {
     public static void main(String[] args) throws IOException {
-        String fileName = "C:\\Windows\\Temp\\output1.txt";
+        String fileName = "C:\\Temp\\output1.txt";
 
         // 출력 스트림
         OutputStream os = new FileOutputStream(fileName);
