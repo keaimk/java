@@ -7,7 +7,7 @@ import java.io.OutputStream;
 
 public class C06OutputStream {
     public static void main(String[] args) {
-        String name = "C:/Windows/Temp/output6.txt";
+        String name = "C:/Temp/output6.txt";
 
         try (OutputStream os = new FileOutputStream(name)) {
             byte[] arr = {4, 5, 6, 7, 8, 9, 10};
