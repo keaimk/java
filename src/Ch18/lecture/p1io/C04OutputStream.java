@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class C04OutputStream {
     public static void main(String[] args) {
 
-        String name = "C:/Windows/Temp/output4.txt";
+        String name = "C:/Temp/output4.txt";
         // try-with-resources
         try (
                 OutputStream os = new FileOutputStream(name);

@@ -6,7 +6,7 @@ import java.io.OutputStream;
 
 public class C03OutputStream {
     public static void main(String[] args) {
-        String name = "C:/Windows/Temp/output3.txt";
+        String name = "C:/Temp/output3.txt";
         OutputStream os = null;
         try {
             os = new FileOutputStream(name);
