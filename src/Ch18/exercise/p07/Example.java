@@ -1,4 +1,4 @@
-package Ch18.exercise.p7;
+package Ch18.exercise.p07;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
